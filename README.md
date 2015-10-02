@@ -16,7 +16,7 @@ TODO: Write history
 
 ## Credits
 Authors: @shadalabad & @jjanalytics
-[Visit Us!](https://www.gtmtraining.com)
+[Visit us at gtmtraining.com](https://www.gtmtraining.com)
 
 ## License
 MIT License
