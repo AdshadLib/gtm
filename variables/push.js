@@ -4,7 +4,7 @@
 
 function(){
   return function(input){
-    datalayer.push(input)
+    dataLayer.push(input)
     if({{Debug Mode}} === true){
     console.table(input)
     console.log(input)
